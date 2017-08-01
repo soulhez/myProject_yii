@@ -1,0 +1,17 @@
+<?php
+function test01(){
+    echo "xxx";
+    echo "001";
+}
+function test02(){
+    
+}
+function test03(){
+   
+}
+function test04(){
+    
+}
+function test05(){
+    
+}

@@ -1,0 +1,33 @@
+.main_content{
+	width: 80%;
+	overflow: hidden;
+	background: rgba(152,154,132,0.8);
+	margin: auto;
+	margin-top: 20px;
+}
+.content_top{
+	width: 400px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.content_bottom{
+	width: 400px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.main_content ul{
+	display: inline-block;
+}
+.element{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: rgba(165,99,184,0.8);
+	font-size: 150px;
+	text-align: center;
+	margin: 0 auto;
+}
+.element:hover{
+	background: rgba(168,105,195,0.8);
+}
+

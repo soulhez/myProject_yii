@@ -1,0 +1,19 @@
+<?php
+$a = 1;
+$b = 2;
+$c = $a + $b;
+function test01(){
+    
+}
+function test02(){
+    
+}
+function test03(){
+   
+}
+function test04(){
+    
+}
+function test05(){
+    
+}

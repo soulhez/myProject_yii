@@ -1,0 +1,13 @@
+<?php+
+    echo "控制台";
+    header("Content-type:text/html;charset=utf-8");
+    //1、当连接成功的时候，会返回mysql连接标识符。2、当连接失败的时候返回false
+    if ($con = mysqli_connect('127.0.0.1','root','Mammoth-2016')){
+        echo "连接成功";
+    }else {
+        echo "连接失败";
+    }
+
+
+
+?>

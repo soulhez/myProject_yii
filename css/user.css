@@ -1,0 +1,27 @@
+form{
+	text-align: center;
+}
+span{
+	display: block;
+	text-align: center;
+	font-size: 22px;
+	color: rgb(45,87,65);
+}
+
+input{
+	margin-bottom: 15px;
+	width: 85%;
+	height: 30px;
+	font-size: 20px;
+}
+#upload_btn{
+	float: right;
+	width: 200px;
+	height: 60px;
+	font-size: 20px;
+	border: none;
+	background: rgba(155,165,144,0.8);
+	text-align: center;
+	margin-top: 30px;
+    margin-right: 20px;
+}
